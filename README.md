@@ -1,4 +1,4 @@
-# Airbnb ETL & Dashboard Project
+<img width="1415" height="812" alt="Airbnb dashboard " src="https://github.com/user-attachments/assets/9189682e-94be-4a1d-b680-39d7d441e90a" /># Airbnb ETL & Dashboard Project
 
 > End-to-end project: Clean, transform, and visualize Airbnb listings data using Google Colab (PySpark) and Power BI.
 
@@ -53,6 +53,7 @@ Data is organized in Drive folders:
 ```
 
 ## 📊 Power BI Dashboard
+<img width="1415" height="812" alt="Airbnb dashboard " src="https://github.com/user-attachments/assets/fc7e409f-7c53-4142-ac0c-ab42a3b98b0e" />
 
 The dashboard contains the following visuals:
 
@@ -75,16 +76,6 @@ The dashboard contains the following visuals:
 - **Donut:** Overall Price by Rating (1–5)
 
 - **Table:** Price of Hosts by Day of Week
-
-## 🎨 Dashboard Design & Theming
-
-- **Palette:** Use Airbnb-inspired dark wine, burgundy, rose, and pink (`#3A0519`, `#670D2F`, `#A53860`, `#EF88AD`).
-
-- **Shadows:** Soft, tinted shadows (rose at 10–15% opacity, blur 8–12px).
-
-- **Borders:** Thin (1px), rounded corners (8–12px), accent color.
-
-- **Typography:** Segoe UI, Titles bold 11px, Labels regular 9px.
 
 ## 📈 Key Insights from Dashboard
 
