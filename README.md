@@ -1,4 +1,4 @@
-<img width="1415" height="812" alt="Airbnb dashboard " src="https://github.com/user-attachments/assets/9189682e-94be-4a1d-b680-39d7d441e90a" /># Airbnb ETL & Dashboard Project
+# Airbnb ETL & Dashboard Project
 
 > End-to-end project: Clean, transform, and visualize Airbnb listings data using Google Colab (PySpark) and Power BI.
 
